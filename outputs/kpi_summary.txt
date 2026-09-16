@@ -1,0 +1,39 @@
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     KEY PERFORMANCE INDICATORS                            ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+REVENUE METRICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • Total All-Time Revenue         : $35,834,169.55
+  • Current Monthly MRR             : $1,160,806.00
+  • Annual Recurring Revenue (ARR)  : $13,929,672.00
+  • Average Revenue per Account     : $7,166.83
+  • Revenue Growth Rate (6mo)       : +13.26%
+  
+CUSTOMER METRICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • Total Customers                 : 5,000
+  • Active Customers                : 4,344
+  • Churned Customers               : 656
+  • Overall Churn Rate              : 13.12%
+  • Average Customer Lifetime       : 26.9 months
+  
+CUSTOMER VALUE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • Average CLV                     : $7,166.83
+  • Median CLV                      : $2,907.19
+  • CLV to CAC Ratio                : 14.33x (assumed CAC: $500)
+  • Average Payback Period          : 5.0 months
+
+FORECASTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • Forecasted Revenue (Next 12mo)  : $15,715,279.91
+  • Expected Monthly Average        : $1,309,606.66
+  • Model Accuracy (MAPE)           : 0.73%
+
+RISK METRICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • At-Risk Customers (>50% prob)   : 652
+  • At-Risk MRR                     : $166,748.00
+  • Potential Annual Revenue Loss   : $2,000,976.00
